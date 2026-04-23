@@ -1,5 +1,8 @@
-#### <div align="center"><span style="opacity: 0.1;">my name is yohan, read my pages (readme)...</span></div>
+#### <div align="center"><span style="color: #30363D;">my name is yohan, read my pages (readme)...</span></div>
+<img width="2125" height="300" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/028457af-3e45-4601-841b-0550665a9932" /><br>
+
 I am a 4th year BS in Computer Science student willing to learn whatever it takes to accomplish the task at hand, and expanding my skillset all the while. I'm a fast learner eager to gain experience, and my education and projects have afforded me proficiency with a range of various tools and languages.
+
 
 #### 🔭 Current Goals
 
