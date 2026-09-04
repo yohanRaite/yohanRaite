@@ -1,16 +1,15 @@
-#### <div align="center"><span style="color: #30363D;">my name is yohan, read my pages (readme)...</span></div>
 <img width="2125" height="300" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/028457af-3e45-4601-841b-0550665a9932" /><br>
 
-I am a 4th year BS in Computer Science student willing to learn whatever it takes to accomplish the task at hand, and expanding my skillset all the while. I'm a fast learner eager to gain experience, and my education and projects have afforded me proficiency with a range of various tools and languages.
+I am a Computer Science Graduate willing to learn whatever it takes to accomplish the task at hand, and expanding my skill set all the while. I'm a fast learner eager to gain experience, and my education and projects have afforded me proficiency with a range of various tools and languages, from web development to software engineering and game development.
 
 
 #### 🔭 Current Goals
 
-I am currently an Intern at **DakilaSoft IT Solutions**, aiming to expand my knowledge and gain experience in a professional IT setting.
+Currently seeking job/internship opportunities to apply skills in problem solving, as well as software/system development or IT operations in a professional environment. Looking to expand my skill set, and dive headfirst into the industry.
 
 ### 🌐 Web Development
 - Frontend: HTML, CSS, JavaScript, React 
-- Backend: Node.js, Express, PHP, Python
+- Backend: Django REST framework, Node.js, Express, PHP, Python
 - Database Management: MySQL, MongoDB, SQLite
 
 ### 🎮 Game Development & Design
